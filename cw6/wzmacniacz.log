@@ -1,0 +1,42 @@
+Circuit: * D:\0Uczelnia\SAiC\cw6\wzmacniacz.asc
+
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- Bipolar Transistors ---
+Name:       q1
+Model:    bc547c
+Ib:       1.00e-06
+Ic:       5.01e-04
+Vbe:      6.01e-01
+Vbc:     -5.38e+00
+Vce:      5.98e+00
+BetaDC:   5.00e+02
+Gm:       1.91e-02
+Rpi:      2.61e+04
+Rx:       1.00e+00
+Ro:       1.16e+05
+Cbe:      3.96e-11
+Cbc:      1.08e-12
+Cjs:      0.00e+00
+BetaAC:   4.99e+02
+Cbx:      6.66e-13
+Ft:       7.36e+07
+
+
+
+Date: Sun Jun 14 17:17:31 2020
+Total elapsed time: 0.043 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 7
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 11
+fillins = 0
+solver = Normal
+Matrix Compiler1: 574 bytes object code size
+Matrix Compiler2: 847 bytes object code size
